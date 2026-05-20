@@ -46,16 +46,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Atividade
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jackson-Florencio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-Florencio&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jackson-Florencio/Jackson-Florencio/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jackson-Florencio/Jackson-Florencio/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Jackson-Florencio/Jackson-Florencio/output/snake.svg" />
+</picture>
 
 ---
-
-### 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jackson-flor%C3%AAncio-b24baa1a4)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00e5b4?style=for-the-badge&logo=githubpages&logoColor=black)](https://jackson-florencio.github.io)
